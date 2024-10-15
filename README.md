@@ -100,4 +100,5 @@ Open Netflix_Data_Analysis.ipynb to explore the analysis.
 # Usage
 The Jupyter Notebook Netflix_Data_Analysis.ipynb contains the full analysis, including data cleaning and visualization.
 You can also interact with the Power BI / Tableau dashboard by opening the .pbix file (for Power BI) or the Tableau workbook.
-My LinkeIn :- www.linkedin.com/in/manisha-chaudhari
+
+# My LinkeIn :- www.linkedin.com/in/manisha-chaudhari
